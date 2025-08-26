@@ -54,6 +54,7 @@ function App() {
       </div>
         <button onClick={calcularImc}>Calcular</button>
     </form>
+    <footer></footer>
     </div>
 
     {mostrarResultado &&(
