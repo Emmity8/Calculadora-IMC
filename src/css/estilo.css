@@ -43,7 +43,7 @@ button{
 /* responsividade */
 @media(max-width:500px){
     .box{
-        width:100%
+        width:100%;
     }
     button{
         margin-top:0;
