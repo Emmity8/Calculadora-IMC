@@ -36,6 +36,13 @@ button{
     text-transform:uppercase;
     margin-top:20px;
 }
+
+footer{
+    margin-top:30px;
+
+    text-align:center;
+
+}
 /* responsividade */
 @media(max-width:500px){
     .box{

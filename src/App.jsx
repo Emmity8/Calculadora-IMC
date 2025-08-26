@@ -54,12 +54,20 @@ function App() {
       </div>
         <button onClick={calcularImc}>Calcular</button>
     </form>
+   
     </div>
 
     {mostrarResultado &&(
       <Resultado resultado={resultado}/>
     )}
+
+    <footer>
+      <h5>Desenvolvido por: Júlio César - v1.0</h5>
+      <p>&copy;2025 - todos os direitos reservados</p>
+    </footer>
+
      </div>
+
   )
 }
  
